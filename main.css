@@ -5,6 +5,7 @@ table, th,td {
 
 table{
     width: 100%;
+    border-radius: 10px;
 }
 img{
     height: 180px; width: 100%
@@ -14,11 +15,12 @@ th{
     font-size: 30px;
 }
 h1{
-    margin-left: 45%; color: green
+    margin-left: 41 %; color: green
 }
 
 .location{
-  text-align: center;
-  
+  text-align: center;  
 }
-
+td{
+    font-size: 20px;
+}
